@@ -1,4 +1,4 @@
-# ⚙️World’s Largest Banks Data Processing (ETL Pipeline)  
+# ⚙️ Global Banking Data ETL Pipeline  
 ### 🎓 IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.world-top-banks-etl)
